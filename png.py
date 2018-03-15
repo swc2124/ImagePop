@@ -1,8 +1,9 @@
 
 #Imports
-from astropy.io import fits 
 import matplotlib
 import matplotlib.pyplot as pl
+
+from astropy.io import fits
 
 def fits_to_png(name_of_fits_file, name_of_png_file):
 

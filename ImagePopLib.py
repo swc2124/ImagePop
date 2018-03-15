@@ -1,11 +1,11 @@
 #This is intended to be a library file for Sol and Lowell's ImagePop.py program.
 
 #<BEGIN: Imports>
-import sys
-import os
-import time
-import imp
 import csv
+import imp
+import os
+import sys
+import time
 #<END: Imports>
 
 

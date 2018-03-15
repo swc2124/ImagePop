@@ -38,9 +38,9 @@ Sol & Lowell
 
 
 #<BEGIN: Imports>
-import sys
-import os
 import collections
+import os
+import sys
 #<END: Imports>
 
 

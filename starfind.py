@@ -1,9 +1,11 @@
 #Imports
 from __future__ import division
+
+import numpy as np
+import warnings
+
 from astropy.io import fits
 from scipy import ndimage as snd
-import warnings
-import numpy as np
 
 def min_max_mean(arr):
 	return np.min(arr),np.max(arr),np.mean(arr)
