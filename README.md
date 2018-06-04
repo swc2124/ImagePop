@@ -7,24 +7,24 @@ It is our hope for this program to be openly developed and contributed to by the
 ImagePop.py (Must be in PATH)
 ImagePopLib.py (Must be in PATH #TODO->Generating?)
 
-#Python (Generated)
+# Python (Generated)
 ImagePopConfig.py (Will be generated into runtime directory, if not user made)
 '''+INIT_FILENAME+''' (Will be generated into target directory, if not already)
 
-#Python (User Made)
+# Python (User Made)
 ImagePopConfig.py (Can be supplied in the runtime directory)
 UserLib1.py;UserLib2.py;etc.py (Can be linked via EXTERNAL_SOURCES in ImagePopConfig.py)
 
-#Text (Generated)
+# Text (Generated)
 '''+README_FILENAME+''' (Will be generated into runtime directory)
 ImagePopIndex.txt (Ordered File List generated into target directory)
 ImagePopOperations.txt (Ordered Command List generated into target directory)
 ImagePopHistory.csv (Table of Time Stamps generated into target directory)
 
-#Executables
+# Executables
 impop (#TODO alias) ==> python ImagePop.py
 
-#Credits
+# Credits
 Sol & Lowell
 
 All questions and comments should be sent to either 
